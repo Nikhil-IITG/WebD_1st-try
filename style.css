@@ -1,0 +1,47 @@
+*{
+    background:#00FFFFAF;
+}
+.pic{
+    position:absolute;
+    right:15px;
+    top:265px;
+    float:right;
+    border: 7px solid rgb(230, 230, 230);
+    margin:30px;
+}
+span.mainH{
+    position:fixed;
+    text-align: center;
+    top:45px;
+    font-size: 50px;
+    left:440px;
+    color:white;
+    background-color:black;
+}
+.profile{
+    width:55px;
+    height:80px;
+    border-radius: 0.7cm;
+    border:2px solid white;
+    overflow:hidden;
+    position:fixed;
+    left:360px;
+    top:13px;
+}
+h1{
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:1280px;
+    height:100px;
+    background-color: black;
+}
+p.Hello{
+    font-size:25px;
+}
+h2{
+    font-size: 30px;
+}
+.Intro{
+    font-size: 19px;
+}
