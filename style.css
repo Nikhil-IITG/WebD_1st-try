@@ -19,6 +19,7 @@ span.mainH{
     background-color:black;
 }
 .profile{
+    position:absolute;
     width:55px;
     height:80px;
     border-radius: 0.7cm;
